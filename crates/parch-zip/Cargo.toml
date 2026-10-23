@@ -1,0 +1,19 @@
+[package]
+name = "parch-zip"
+description = "ZIP format support for the parch parallel archiver"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+
+[dependencies]
+parch-core.workspace = true
+parch-codecs.workspace = true
+chrono.workspace = true
+crc32fast.workspace = true
+encoding_rs.workspace = true
+oem_cp.workspace = true
+
+[dev-dependencies]
+tempfile.workspace = true
+zip.workspace = true

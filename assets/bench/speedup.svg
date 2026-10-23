@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="454" viewBox="0 0 760 454" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img">
+<title>How many times parch is faster than zip 3.0 / unzip 6.00</title>
+<rect width="100%" height="100%" rx="6" fill="#ffffff"/>
+<text x="16.0" y="28.0" font-size="16" text-anchor="start" font-weight="bold" fill="#1f2328">How many times parch is faster than zip 3.0 / unzip 6.00</text>
+<text x="16.0" y="48.0" font-size="12" text-anchor="start" font-weight="normal" fill="#59636e">compression level 9; dashed line: same speed</text>
+<line x1="110.0" y1="88.0" x2="110.0" y2="132.0" stroke="#d1d9e0"/>
+<line x1="110.0" y1="162.0" x2="110.0" y2="228.0" stroke="#d1d9e0"/>
+<line x1="110.0" y1="258.0" x2="110.0" y2="324.0" stroke="#d1d9e0"/>
+<line x1="110.0" y1="354.0" x2="110.0" y2="420.0" stroke="#d1d9e0"/>
+<text x="110.0" y="436.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#59636e">0×</text>
+<line x1="303.3" y1="88.0" x2="303.3" y2="132.0" stroke="#d1d9e0"/>
+<line x1="303.3" y1="162.0" x2="303.3" y2="228.0" stroke="#d1d9e0"/>
+<line x1="303.3" y1="258.0" x2="303.3" y2="324.0" stroke="#d1d9e0"/>
+<line x1="303.3" y1="354.0" x2="303.3" y2="420.0" stroke="#d1d9e0"/>
+<text x="303.3" y="436.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#59636e">5×</text>
+<line x1="496.7" y1="88.0" x2="496.7" y2="132.0" stroke="#d1d9e0"/>
+<line x1="496.7" y1="162.0" x2="496.7" y2="228.0" stroke="#d1d9e0"/>
+<line x1="496.7" y1="258.0" x2="496.7" y2="324.0" stroke="#d1d9e0"/>
+<line x1="496.7" y1="354.0" x2="496.7" y2="420.0" stroke="#d1d9e0"/>
+<text x="496.7" y="436.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#59636e">10×</text>
+<line x1="690.0" y1="88.0" x2="690.0" y2="132.0" stroke="#d1d9e0"/>
+<line x1="690.0" y1="162.0" x2="690.0" y2="228.0" stroke="#d1d9e0"/>
+<line x1="690.0" y1="258.0" x2="690.0" y2="324.0" stroke="#d1d9e0"/>
+<line x1="690.0" y1="354.0" x2="690.0" y2="420.0" stroke="#d1d9e0"/>
+<text x="690.0" y="436.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#59636e">15×</text>
+<line x1="148.7" y1="88.0" x2="148.7" y2="132.0" stroke="#59636e" stroke-dasharray="4 3"/>
+<line x1="148.7" y1="162.0" x2="148.7" y2="228.0" stroke="#59636e" stroke-dasharray="4 3"/>
+<line x1="148.7" y1="258.0" x2="148.7" y2="324.0" stroke="#59636e" stroke-dasharray="4 3"/>
+<line x1="148.7" y1="354.0" x2="148.7" y2="420.0" stroke="#59636e" stroke-dasharray="4 3"/>
+<text x="16.0" y="80.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">582,879 HTML files, 11.04 GiB</text>
+<text x="32.0" y="101.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">create</text>
+<rect x="110.0" y="90.0" width="211.2" height="15" rx="2" fill="#0969da"/>
+<text x="327.2" y="102.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">5.5×</text>
+<text x="32.0" y="123.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">test</text>
+<rect x="110.0" y="112.0" width="436.4" height="15" rx="2" fill="#0969da"/>
+<text x="552.4" y="124.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">11.3×</text>
+<text x="16.0" y="154.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">100,000 small files</text>
+<text x="32.0" y="175.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">create</text>
+<rect x="110.0" y="164.0" width="165.3" height="15" rx="2" fill="#0969da"/>
+<text x="281.3" y="176.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">4.3×</text>
+<text x="32.0" y="197.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">extract</text>
+<rect x="110.0" y="186.0" width="107.3" height="15" rx="2" fill="#0969da"/>
+<text x="223.3" y="198.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">2.8×</text>
+<text x="32.0" y="219.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">test</text>
+<rect x="110.0" y="208.0" width="452.6" height="15" rx="2" fill="#0969da"/>
+<text x="568.6" y="220.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">11.7×</text>
+<text x="16.0" y="250.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">one 2 GiB file</text>
+<text x="32.0" y="271.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">create</text>
+<rect x="110.0" y="260.0" width="466.1" height="15" rx="2" fill="#0969da"/>
+<text x="582.1" y="272.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">12.1×</text>
+<text x="32.0" y="293.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">extract</text>
+<rect x="110.0" y="282.0" width="102.8" height="15" rx="2" fill="#0969da"/>
+<text x="218.8" y="294.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">2.7×</text>
+<text x="32.0" y="315.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">test</text>
+<rect x="110.0" y="304.0" width="115.8" height="15" rx="2" fill="#0969da"/>
+<text x="231.8" y="316.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">3.0×</text>
+<text x="16.0" y="346.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">Rust sources</text>
+<text x="32.0" y="367.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">create</text>
+<rect x="110.0" y="356.0" width="262.4" height="15" rx="2" fill="#0969da"/>
+<text x="378.4" y="368.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">6.8×</text>
+<text x="32.0" y="389.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">extract</text>
+<rect x="110.0" y="378.0" width="215.6" height="15" rx="2" fill="#0969da"/>
+<text x="331.6" y="390.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">5.6×</text>
+<text x="32.0" y="411.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">test</text>
+<rect x="110.0" y="400.0" width="535.8" height="15" rx="2" fill="#0969da"/>
+<text x="651.8" y="412.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">13.9×</text>
+</svg>

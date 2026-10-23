@@ -1,0 +1,44 @@
+[workspace]
+resolver = "3"
+members = ["crates/parch-core", "crates/parch-codecs", "crates/parch-zip", "crates/parch-cli"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.88"
+license = "MIT OR Apache-2.0"
+
+[workspace.dependencies]
+parch-core = { path = "crates/parch-core" }
+parch-codecs = { path = "crates/parch-codecs" }
+parch-zip = { path = "crates/parch-zip" }
+
+anyhow = "1"
+bzip2 = "0.6"
+chrono = { version = "0.4", default-features = false, features = ["clock", "std"] }
+clap = { version = "4.6", features = ["derive", "env"] }
+crc32fast = "1.5"
+crossbeam-channel = "0.5"
+ctrlc = "3.5"
+deflate64 = "0.1"
+encoding_rs = "0.8"
+flate2 = { version = "1.1", default-features = false, features = ["zlib-rs"] }
+globset = "0.4"
+indicatif = "0.18"
+libdeflater = "1.26"
+libz-rs-sys = "0.6"
+lzma-rust2 = { version = "0.23", default-features = false, features = ["std", "xz"] }
+oem_cp = "2.1"
+ppmd-rust = "1.5"
+tempfile = "3"
+thiserror = "2"
+windows-sys = "0.61"
+zstd = { version = "0.14", default-features = false }
+
+assert_cmd = "2"
+proptest = "1"
+zip = "9"
+
+[profile.release]
+lto = "fat"
+codegen-units = 1

@@ -1,0 +1,26 @@
+[package]
+name = "parch-cli"
+description = "parch: parallel ZIP archiver"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+
+[[bin]]
+name = "parch"
+path = "src/main.rs"
+
+[dependencies]
+parch-core.workspace = true
+parch-codecs.workspace = true
+parch-zip.workspace = true
+anyhow.workspace = true
+chrono.workspace = true
+clap.workspace = true
+ctrlc.workspace = true
+tempfile.workspace = true
+
+[dev-dependencies]
+assert_cmd.workspace = true
+proptest.workspace = true
+zip.workspace = true

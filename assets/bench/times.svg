@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="673" viewBox="0 0 760 673" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img">
+<title>Wall-clock time, lower is better</title>
+<rect width="100%" height="100%" rx="6" fill="#ffffff"/>
+<text x="16.0" y="28.0" font-size="16" text-anchor="start" font-weight="bold" fill="#1f2328">Wall-clock time, lower is better</text>
+<text x="16.0" y="48.0" font-size="12" text-anchor="start" font-weight="normal" fill="#59636e">compression level 9</text>
+<rect x="16.0" y="66.0" width="12.0" height="12" rx="2" fill="#8c959f"/>
+<text x="34.0" y="76.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">zip 3.0 / unzip 6.00</text>
+<rect x="193.2" y="66.0" width="12.0" height="12" rx="2" fill="#0969da"/>
+<text x="211.2" y="76.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">parch</text>
+<text x="16.0" y="106.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">582,879 HTML files, 11.04 GiB</text>
+<text x="32.0" y="126.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">create</text>
+<rect x="110.0" y="116.0" width="540.0" height="13" rx="2" fill="#8c959f"/>
+<text x="656.0" y="127.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">15 min 5 s</text>
+<rect x="110.0" y="133.0" width="98.8" height="13" rx="2" fill="#0969da"/>
+<text x="214.8" y="144.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">2 min 46 s</text>
+<text x="32.0" y="167.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">test</text>
+<rect x="110.0" y="157.0" width="91.4" height="13" rx="2" fill="#8c959f"/>
+<text x="207.4" y="168.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">2 min 33 s</text>
+<rect x="110.0" y="174.0" width="8.1" height="13" rx="2" fill="#0969da"/>
+<text x="124.1" y="185.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">13.58 s</text>
+<text x="16.0" y="218.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">100,000 small files</text>
+<text x="32.0" y="238.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">create</text>
+<rect x="110.0" y="228.0" width="540.0" height="13" rx="2" fill="#8c959f"/>
+<text x="656.0" y="239.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">46.38 s</text>
+<rect x="110.0" y="245.0" width="126.3" height="13" rx="2" fill="#0969da"/>
+<text x="242.3" y="256.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">10.85 s</text>
+<text x="32.0" y="279.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">extract</text>
+<rect x="110.0" y="269.0" width="159.3" height="13" rx="2" fill="#8c959f"/>
+<text x="275.3" y="280.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">13.68 s</text>
+<rect x="110.0" y="286.0" width="57.4" height="13" rx="2" fill="#0969da"/>
+<text x="173.4" y="297.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">4.93 s</text>
+<text x="32.0" y="320.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">test</text>
+<rect x="110.0" y="310.0" width="69.5" height="13" rx="2" fill="#8c959f"/>
+<text x="185.5" y="321.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">5.97 s</text>
+<rect x="110.0" y="327.0" width="5.9" height="13" rx="2" fill="#0969da"/>
+<text x="121.9" y="338.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">0.51 s</text>
+<text x="16.0" y="371.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">one 2 GiB file</text>
+<text x="32.0" y="391.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">create</text>
+<rect x="110.0" y="381.0" width="540.0" height="13" rx="2" fill="#8c959f"/>
+<text x="656.0" y="392.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">5 min 34 s</text>
+<rect x="110.0" y="398.0" width="44.8" height="13" rx="2" fill="#0969da"/>
+<text x="160.8" y="409.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">27.67 s</text>
+<text x="32.0" y="432.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">extract</text>
+<rect x="110.0" y="422.0" width="37.8" height="13" rx="2" fill="#8c959f"/>
+<text x="153.8" y="433.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">23.34 s</text>
+<rect x="110.0" y="439.0" width="14.2" height="13" rx="2" fill="#0969da"/>
+<text x="130.2" y="450.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">8.78 s</text>
+<text x="32.0" y="473.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">test</text>
+<rect x="110.0" y="463.0" width="25.9" height="13" rx="2" fill="#8c959f"/>
+<text x="141.9" y="474.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">16.02 s</text>
+<rect x="110.0" y="480.0" width="8.7" height="13" rx="2" fill="#0969da"/>
+<text x="124.7" y="491.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">5.35 s</text>
+<text x="16.0" y="524.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">Rust sources</text>
+<text x="32.0" y="544.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">create</text>
+<rect x="110.0" y="534.0" width="540.0" height="13" rx="2" fill="#8c959f"/>
+<text x="656.0" y="545.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">9.50 s</text>
+<rect x="110.0" y="551.0" width="79.6" height="13" rx="2" fill="#0969da"/>
+<text x="195.6" y="562.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">1.40 s</text>
+<text x="32.0" y="585.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">extract</text>
+<rect x="110.0" y="575.0" width="82.4" height="13" rx="2" fill="#8c959f"/>
+<text x="198.4" y="586.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">1.45 s</text>
+<rect x="110.0" y="592.0" width="14.8" height="13" rx="2" fill="#0969da"/>
+<text x="130.8" y="603.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">0.26 s</text>
+<text x="32.0" y="626.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">test</text>
+<rect x="110.0" y="616.0" width="55.1" height="13" rx="2" fill="#8c959f"/>
+<text x="171.1" y="627.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">0.97 s</text>
+<rect x="110.0" y="633.0" width="4.0" height="13" rx="2" fill="#0969da"/>
+<text x="120.0" y="644.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">0.07 s</text>
+</svg>

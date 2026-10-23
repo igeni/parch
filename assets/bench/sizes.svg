@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="356" viewBox="0 0 760 356" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img">
+<title>Archive size, smaller is better</title>
+<rect width="100%" height="100%" rx="6" fill="#ffffff"/>
+<text x="16.0" y="28.0" font-size="16" text-anchor="start" font-weight="bold" fill="#1f2328">Archive size, smaller is better</text>
+<text x="16.0" y="48.0" font-size="12" text-anchor="start" font-weight="normal" fill="#59636e">compression level 9</text>
+<text x="16.0" y="80.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">582,879 HTML files, 11.04 GiB</text>
+<text x="32.0" y="100.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">zip 3.0</text>
+<rect x="110.0" y="90.0" width="479.6" height="13" rx="2" fill="#8c959f"/>
+<text x="595.6" y="101.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">3.39 GiB</text>
+<text x="32.0" y="119.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">parch</text>
+<rect x="110.0" y="109.0" width="480.0" height="13" rx="2" fill="#0969da"/>
+<text x="596.0" y="120.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">3.39 GiB (+0.1 %)</text>
+<text x="16.0" y="150.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">100,000 small files</text>
+<text x="32.0" y="170.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">zip 3.0</text>
+<rect x="110.0" y="160.0" width="480.0" height="13" rx="2" fill="#8c959f"/>
+<text x="596.0" y="171.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">130.1 MiB</text>
+<text x="32.0" y="189.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">parch</text>
+<rect x="110.0" y="179.0" width="477.3" height="13" rx="2" fill="#0969da"/>
+<text x="593.3" y="190.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">129.4 MiB (−0.6 %)</text>
+<text x="16.0" y="220.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">one 2 GiB file</text>
+<text x="32.0" y="240.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">zip 3.0</text>
+<rect x="110.0" y="230.0" width="478.1" height="13" rx="2" fill="#8c959f"/>
+<text x="594.1" y="241.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">309.8 MiB</text>
+<text x="32.0" y="259.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">parch</text>
+<rect x="110.0" y="249.0" width="480.0" height="13" rx="2" fill="#0969da"/>
+<text x="596.0" y="260.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">311.1 MiB (+0.4 %)</text>
+<text x="16.0" y="290.0" font-size="13" text-anchor="start" font-weight="bold" fill="#1f2328">Rust sources</text>
+<text x="32.0" y="310.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">zip 3.0</text>
+<rect x="110.0" y="300.0" width="480.0" height="13" rx="2" fill="#8c959f"/>
+<text x="596.0" y="311.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">21.6 MiB</text>
+<text x="32.0" y="329.0" font-size="13" text-anchor="start" font-weight="normal" fill="#59636e">parch</text>
+<rect x="110.0" y="319.0" width="473.8" height="13" rx="2" fill="#0969da"/>
+<text x="589.8" y="330.0" font-size="12" text-anchor="start" font-weight="normal" fill="#1f2328">21.4 MiB (−1.3 %)</text>
+</svg>
